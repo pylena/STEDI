@@ -7,7 +7,7 @@ The STEDI Human Balance Analytics Project is designed to build a data lakehouse 
 ![image](https://github.com/user-attachments/assets/145073e7-bf34-4038-b79a-0b1e5d364815)
 
 ### Project Details 
-* Landing Zone
+  * Landing Zone
  - Customer Data: User information from the mobile app.
  - Step Trainer Sensor Data: Distance measurements.
  - Accelerometer Data:  X, Y, Z  motion data.
